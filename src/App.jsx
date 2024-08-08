@@ -8,11 +8,11 @@ function App() {
     <>
     <a href='https://ossner.github.io/DTMF'>DTMF</a>
     <br></br>
-    <a href='https://ossner.github.io/signalizer'>Signal Encoding Visualizer</a>
-    <br></br>
     <a href='https://ossner.github.io/meproulette'>Mep Roulette</a>
     <br></br>
     <a href='https://ossner.github.io/TUMGAD'>TUMGAD</a>
+    <br></br>
+    <a href='https://ossner.github.io/signalizer'>Signal Encoding Visualizer</a>
     </>
   )
 }
