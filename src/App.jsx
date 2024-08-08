@@ -6,13 +6,13 @@ function App() {
 
   return (
     <>
-    <a href='https://ossner.github.io/DTMF'>DTMF</a>
+    <a href='https://ossner.github.io/DTMF'>Why do buttons beep?</a>
     <br></br>
-    <a href='https://ossner.github.io/meproulette'>Mep Roulette</a>
+    <a href='https://ossner.github.io/meproulette'>Do you know the european parliament?</a>
     <br></br>
-    <a href='https://ossner.github.io/TUMGAD'>TUMGAD</a>
+    <a href='https://ossner.github.io/TUMGAD/src/routes'>Algorithms and datastructure</a>
     <br></br>
-    <a href='https://ossner.github.io/signalizer'>Signal Encoding Visualizer</a>
+    <a href='https://ossner.github.io/signalizer'>Binary signal encoding visualizer</a>
     </>
   )
 }
