@@ -16,6 +16,9 @@ function App() {
     <br></br>
     <br></br>
     <a href='https://ossner.github.io/signalizer'>Binary signal encoding visualizer</a>
+    <br></br>
+    <br></br>
+    <a href='https://detectai.ossner.com'>The most accurate* AI detector</a>
     </>
   )
 }
