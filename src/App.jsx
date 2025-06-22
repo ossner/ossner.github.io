@@ -6,19 +6,19 @@ function App() {
 
   return (
     <>
-    <a href='https://ossner.github.io/DTMF'>Why do buttons beep?</a>
+    <a href='https://detectai.ossner.com'>The World's Most Accurate* AI Text Detector</a>
     <br></br>
     <br></br>
-    <a href='https://ossner.github.io/meproulette'>Do you know your MEPs?</a>
+    <a href='https://ossner.github.io/DTMF'>Why do Buttons Beep?</a>
     <br></br>
     <br></br>
-    <a href='https://ossner.github.io/TUMGAD/src/routes'>Algorithms and datastructures</a>
+    <a href='https://ossner.github.io/meproulette'>Do you know your MEPs? (outdated)</a>
     <br></br>
     <br></br>
-    <a href='https://ossner.github.io/signalizer'>Binary signal encoding visualizer</a>
+    <a href='https://ossner.github.io/TUMGAD/src/routes'>Algorithms and Datastructures</a>
     <br></br>
     <br></br>
-    <a href='https://detectai.ossner.com'>The most accurate* AI detector</a>
+    <a href='https://ossner.github.io/signalizer'>Binary Signal Encoding Visualizer</a>
     </>
   )
 }
