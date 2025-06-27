@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 export default function FilterBar({ tags, selectedTags, toggleTag, clearTags }) {
   return (
     <div className="flex flex-wrap gap-2 mb-6">

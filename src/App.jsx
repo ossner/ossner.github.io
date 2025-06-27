@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import Header from './components/Header';
-import FilterBar from './components/Filterbar';
+import FilterBar from './components/FilterBar';
 import Footer from './components/Footer'
 import ProjectTimeline from './components/ProjectTimeline';
 import { projects as allProjects } from './data/projects';
