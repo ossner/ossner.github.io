@@ -1,5 +1,11 @@
 export const projects = [
   {
+    title: "Segmentation Lab",
+    link: "https://segmentationlab.ossner.com",
+    year: 2026,
+    tags: ["Tool", "Article"],
+  },
+  {
     title: "The World's Most Accurate* AI Text Detector",
     link: "https://detectai.ossner.com",
     year: 2025,
