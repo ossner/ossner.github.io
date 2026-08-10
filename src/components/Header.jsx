@@ -11,7 +11,7 @@ export default function Header() {
             <div>
                 <h1 className="text-2xl font-semibold">Hi, I'm Sebastian</h1>
                 <p className="text-gray-600 dark:text-gray-300">
-                    I like to build things that are sometimes useful, mostly not
+                    I like to build things that are sometimes useful, mostly not. All text written by me without usage of generative AI tools.
                 </p>
             </div>
         </div>
